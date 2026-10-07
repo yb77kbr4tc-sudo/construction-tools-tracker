@@ -1,0 +1,6 @@
+{
+  "appId": "com.constructiontoolstracker.app",
+  "appName": "Construction Tools Tracker",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
